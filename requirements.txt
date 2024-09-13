@@ -1,0 +1,9 @@
+Click
+Flask
+Flask-PyMongo
+importlib-metadata
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+zipp
